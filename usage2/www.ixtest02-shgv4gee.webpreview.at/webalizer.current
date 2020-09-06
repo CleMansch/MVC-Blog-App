@@ -1,0 +1,236 @@
+# Webalizer V2.23-08 Incremental Data - 07/30/2020 01:47:07
+2020 7 30 1 47 7
+256 232 12 26 3 11 67680 192 21 0
+2 1 85 20 30
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+12 10 2080 9 5 4
+2 2 0 1 0 0
+2 2 0 1 0 0
+3 2 196 2 0 0
+3 3 252 2 1 1
+2 2 0 1 0 0
+4 4 0 1 0 0
+172 154 50403 3 141 5
+31 30 8537 2 26 4
+21 19 5339 4 16 6
+4 4 873 2 3 2
+0 0 0 0 0 0
+5 5 1455 5
+94 77 24056 57
+21 21 5873 19
+0 0 0 0
+0 0 0 0
+20 20 2022 5
+0 0 0 0
+0 0 0 0
+1 1 293 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+36 35 10765 34
+31 30 9486 30
+5 5 1535 5
+4 4 1208 3
+0 0 0 0
+2 2 586 1
+0 0 0 0
+1 1 252 1
+7 7 2051 6
+22 19 6251 20
+1 1 291 1
+6 4 1556 4
+0
+0
+0
+232
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+1
+22
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/.well-known/acme-challenge/a1447282a8415a17c1b6e3dc435f3f06
+0 1 733651824152700274 0 0 0
+/.well-known/acme-challenge/5e57b009b39c258352a05b0ec1f8a002
+0 1 0 0 0 0
+/.well-known/acme-challenge/fc1fe5d87873ca731e61d3325143d7a7
+0 1 0 0 0 0
+/.well-known/acme-challenge/5be4e743dc395213536c9517da5090d3
+0 1 0 0 0 0
+/.well-known/acme-challenge/5760f545203e128a4b4cacf23dd66877
+0 1 0 0 0 0
+/.well-known/acme-challenge/c295fbcf87e30662fd7908ea90776cf0
+0 1 0 0 0 0
+/.well-known/acme-challenge/a66dda2f43c8822f00dd8456566a0407
+0 1 0 0 0 0
+/.well-known/acme-challenge/3ba579df657858c71e17c6355d8322e0
+0 1 0 0 0 0
+/.well-known/acme-challenge/BGmfXoduOIPc9WUvlcPHmvRJMqhFSrvftBu8fW-0A_A
+0 4 0 428 0 0
+/.well-known/acme-challenge/2327162e855627774ca223f81644888d
+0 1 0 0 0 0
+/.well-known/acme-challenge/296e6247d48c3f902937c7bf37dbbeec
+0 1 0 0 0 0
+/.well-known/acme-challenge/fc9f6d26a3f3a8a1d240a63220ffb319
+0 1 0 0 0 0
+/.well-known/acme-challenge/967a75e5bef943d3f07a5ffb9ba67e9c
+0 1 0 0 0 0
+/.well-known/acme-challenge/7753bf4547c0e36c4eb7b667a671a8ac
+0 1 0 0 0 0
+/.well-known/acme-challenge/1983eef5e389f01f0e9dcc815ea9eec5
+0 1 0 0 0 0
+/favicon.ico
+0 12 0 3640 0 0
+/.well-known/acme-challenge/4692adda62341e03de54c625e505a9a8
+0 1 0 0 0 0
+/.well-known/acme-challenge/bdc73bb06ad2fc753056478c7eddc99f
+0 1 15 0 0 0
+/.well-known/acme-challenge/aaf23c3f551ead666385e342ab289711
+0 1 0 0 0 0
+/.well-known/acme-challenge/152923d32cd82d09d6f35d29eedae533
+0 1 0 0 0 0
+/
+0 190 0 57837 21 14
+/.well-known/acme-challenge/8e8e7c2128beaab2983839838caf9661
+0 1 0 0 0 0
+/.well-known/acme-challenge/fbcbb211a8a61a75cada621497083a83
+0 1 0 0 0 0
+/home/ixteswcn/ixtest02-shgv4gee.webpreview.at
+0 4 0 1244 0 0
+/.well-known/acme-challenge/a8e6e008327a7b2286adec7e005c2ff8
+0 1 0 0 0 0
+/.well-known/acme-challenge/01de3e3d07e499d7ccde5e72ff963b8d
+0 1 0 0 0 0
+# End Of Table - urls
+# -sites- (monthly)
+ec2-52-15-254-228.us-east-2.compute.amazonaws.com
+0 1 1 107 0 0
+-
+serv67024323.secure-node.at
+0 22 22 0 0 0
+-
+84-114-173-91.cable.dynamic.surfer.at
+0 220 197 64628 14 1596069666
+/
+93.83.160.12
+0 2 2 586 1 1595862339
+/
+65.154.226.220
+0 2 2 504 1 1595224705
+/
+38.145.94.68
+0 1 1 252 1 1595618707
+/
+179.43.169.182
+0 1 1 252 1 1595223087
+/
+ec2-18-196-96-172.eu-central-1.compute.amazonaws.com
+0 1 1 107 0 0
+-
+outbound2.letsencrypt.org
+0 1 1 107 0 0
+-
+ec2-34-209-232-166.us-west-2.compute.amazonaws.com
+0 1 1 107 0 0
+-
+217-149-171-193.nat.highway.telekom.at
+0 2 1 487 1 1596065765
+/
+65.154.226.109
+0 2 2 543 2 1596063281
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+serv67024323.secure-node.at
+0 1 1 0 0 0
+-
+84-114-173-91.cable.dynamic.surfer.at
+0 3 3 873 2 1596069666
+/
+# End Of Table - sites (daily)
+# -referrers- 
+- (Direct Request)
+0 253
+http://www.bing.com/search
+0 2
+http://ixtest02-shgv4gee.webpreview.at/
+0 1
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/78.0.3904.70 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; Let's Encrypt validation server; +https://www.letsencrypt.org)
+0 4
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.71 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0
+0 219
+WhatsApp/2.20.195.17 A
+0 1
+Mozilla/5.0 (X11; Linux i686; rv:10.0) Gecko/20100101 Firefox/10.0
+0 1
+Mozilla/5.0 (Windows NT 6.2; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36
+0 1
+curl/7.64.0
+0 22
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

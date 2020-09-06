@@ -1,0 +1,7 @@
+#PD-ADMIN-AUTH BEGIN
+#PD-ADMIN-SENDEREMAIL "postmaster@ixtest02-shgv4gee.webpreview.at"
+AuthName "Statistik"
+AuthType Basic
+AuthUserFile /home/ixteswcn/www.ixtest02-shgv4gee.webpreview.at/usage2/.htusers
+require valid-user
+#PD-ADMIN-AUTH END
